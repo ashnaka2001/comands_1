@@ -2,4 +2,6 @@ git config --global user.name "username"
 
 git config --global user.email "emali"
 
-git init ->  for initializing git in pwd
+git init ->  for initializing git 
+
+git branch -> list all braches

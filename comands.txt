@@ -7,3 +7,6 @@ git init ->  for initializing git
 git branch -> list all braches
 
 this line is added from master branch
+
+
+line 12 is edited in remote repository

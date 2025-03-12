@@ -5,3 +5,5 @@ git config --global user.email "emali"
 git init ->  for initializing git 
 
 git branch -> list all braches
+
+this line is added from master branch
